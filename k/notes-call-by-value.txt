@@ -1,0 +1,7 @@
+In C, all function args are passed "by value". 
+>>> the called function is given "the value of its arg" in temp variables.
+>>> means that, when editing arg inside, the function actually uses and modifies its copied version
+
+
+In contrast, we've got another thing comings: "pass by reference"
+>>> means that, we must pass the address of the "true" value, so we can modify the "real" version

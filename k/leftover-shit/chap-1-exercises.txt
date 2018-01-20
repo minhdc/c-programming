@@ -1,0 +1,9 @@
+1-22. Write a program to "fold" long input lines into 2 or more shorter lines after the last non-blank character tha occurs before the n-th column of input. make sure your program does soemthing intelligent with very long lins, and if there are no blanks or tab before the specified column.
+
+1-23. Write a program to remove all comments from a C program. Don't forget to handle quoted strings and character constants properly. C comments don't NEST.
+
+1-24. Write a program to check a C program for rudimentray syntax errors like unbalanced parentheses, brackets and braces. Don't forget about quotes, both single and double, escape sequences and comments.....
+
+
+:wq
+

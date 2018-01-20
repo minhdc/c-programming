@@ -1,0 +1,14 @@
+
+
+automatic variable = local variable (in each function)
+
+external variable = variable that can be accessed "by name by any function"
+
+	to use extern variable >>. define outside + declare inside
+		#define : the place that variable is created & storaged
+		declare: the place where 'the nature' of the variable is STATED, but no allocated sto
+
+context of HEADER file:
+	- If the program is in several source files, and a variable is defined in file1, then used in file2, file3 to connect the ocurrences of the variable. The usual practice is to collect 'extern' decalaration of variables and functions in a separate file >> HEADER: *.h .
+
+

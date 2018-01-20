@@ -1,0 +1,14 @@
+
+
+
+- sizeof(int) may varies on each different mahcine, the compilers are free to choose appropriate sizes of its own hardware, starting at 16-bit....
+
+- "plain" char may be signed or unsigned, but "printable" char always positive (unsigned)
+
+- valueof(character): is the numeric vlue of the character in the machine's CHARACTER SET.
+
+- Strings end with '\0' - the EMPTY CHARACTER, doesn't appear in screens but appears in memory...
+
+- enum - enumeration constant - a list of constant integer values... auto increment...
+
+
